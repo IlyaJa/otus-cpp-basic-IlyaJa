@@ -313,8 +313,9 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="C:\Users\Илья\New\otus-cpp-basic-IlyaJa\HomeWork2\hello_world.cpp" />
     <ClCompile Include="C:\Users\Илья\New\otus-cpp-basic-IlyaJa\HomeWork2\move_me_out.cpp" />
-    <ClCompile Include="C:\Users\Илья\New\otus-cpp-basic-IlyaJa\HomeWork2\main.cpp" />
+    <ClCompile Include="C:\Users\Илья\New\otus-cpp-basic-IlyaJa\HomeWork2\example.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="C:\Users\Илья\New\otus-cpp-basic-IlyaJa\HomeWork2\build\ZERO_CHECK.vcxproj">
